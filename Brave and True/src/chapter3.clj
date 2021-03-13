@@ -1,6 +1,11 @@
 (ns chapter3)
+
 ;1. Use the str, vector, list, hash-map, and hash-set functions.
 ;
+(defn -main [& args]
+  (println "Hello world")
+  (println   (+ 1 2))
+  )
 
 
 ;2. Write a function that takes a number and adds 100 to it.
